@@ -1,6 +1,3 @@
-# zoomies-cinnamon-applet
-an simple panel applet for the Cinnamon desktop (Linux Mint). A little pixel-art cat runs on your panel, and the busier your computer gets, the faster it runs. Keep an eye on CPU, RAM, network or disk activity without looking at a single number (unless you want to).
-
 # Zoomies 🐈
 
 **A cat monitor that runs faster the harder your system works.**
@@ -22,19 +19,19 @@ Zoomies is a panel applet for the Cinnamon desktop (Linux Mint). A little pixel-
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/black.gif" alt="Black" width="104"><br>Black</td>
-    <td align="center"><img src="screenshots/blacktabby.gif" alt="Black Tabby" width="104"><br>Black Tabby</td>
-    <td align="center"><img src="screenshots/blue.gif" alt="Blue" width="104"><br>Blue</td>
-    <td align="center"><img src="screenshots/chocolate.gif" alt="Chocolate" width="104"><br>Chocolate</td>
-    <td align="center"><img src="screenshots/cream.gif" alt="Cream" width="104"><br>Cream</td>
-    <td align="center"><img src="screenshots/ginger.gif" alt="Ginger" width="104"><br>Ginger</td>
+    <td align="center"><img src="screenshots/black.gif" alt="Black" width="96"><br>Black</td>
+    <td align="center"><img src="screenshots/blacktabby.gif" alt="Black Tabby" width="96"><br>Black Tabby</td>
+    <td align="center"><img src="screenshots/blue.gif" alt="Blue" width="96"><br>Blue</td>
+    <td align="center"><img src="screenshots/chocolate.gif" alt="Chocolate" width="96"><br>Chocolate</td>
+    <td align="center"><img src="screenshots/cream.gif" alt="Cream" width="96"><br>Cream</td>
+    <td align="center"><img src="screenshots/ginger.gif" alt="Ginger" width="96"><br>Ginger</td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/gray.gif" alt="Gray" width="104"><br>Gray</td>
-    <td align="center"><img src="screenshots/lilac.gif" alt="Lilac" width="104"><br>Lilac</td>
-    <td align="center"><img src="screenshots/nebula.gif" alt="Nebula" width="104"><br>Nebula</td>
-    <td align="center"><img src="screenshots/orangetabby.gif" alt="Orange Tabby" width="104"><br>Orange Tabby</td>
-    <td align="center"><img src="screenshots/white.gif" alt="White" width="104"><br>White</td>
+    <td align="center"><img src="screenshots/gray.gif" alt="Gray" width="96"><br>Gray</td>
+    <td align="center"><img src="screenshots/lilac.gif" alt="Lilac" width="96"><br>Lilac</td>
+    <td align="center"><img src="screenshots/nebula.gif" alt="Nebula" width="96"><br>Nebula</td>
+    <td align="center"><img src="screenshots/orangetabby.gif" alt="Orange Tabby" width="96"><br>Orange Tabby</td>
+    <td align="center"><img src="screenshots/white.gif" alt="White" width="96"><br>White</td>
     <td></td>
   </tr>
 </table>
