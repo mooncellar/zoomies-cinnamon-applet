@@ -38,13 +38,18 @@ Zoomies is a panel applet for the Cinnamon desktop (Linux Mint). A little pixel-
 
 ## Installation
 
-1. Download or clone this repository.
-2. Copy the `zoomies@mooncellar` folder into your local applets folder:
+1. Download the latest `zoomies-x.x.x.zip` from the [Releases](https://github.com/mooncellar/zoomies-cinnamon-applet/releases) page.
+2. Extract it into your local applets folder, so you end up with `~/.local/share/cinnamon/applets/zoomies@mooncellar`:
    ```bash
-   cp -r zoomies@mooncellar ~/.local/share/cinnamon/applets/
+   unzip zoomies-*.zip -d ~/.local/share/cinnamon/applets/
    ```
 3. Right-click your panel, choose **Applets**, find **Zoomies** and add it.
 4. Right-click the cat and choose **Configure** to pick a sensor and a cat.
+
+If you'd rather clone the repository, the applet itself is in `zoomies@mooncellar/files/zoomies@mooncellar`:
+```bash
+cp -r zoomies@mooncellar/files/zoomies@mooncellar ~/.local/share/cinnamon/applets/
+```
 
 ## About
 
